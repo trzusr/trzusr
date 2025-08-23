@@ -31,7 +31,7 @@ class Attributes:
                                         "deep": [
                                             {
                                                 "hidden": (
-                                                    {"myheart": "LeVy"}
+                                                    {"myheart": ""}
                                                 )
                                             }
                                         ]
