@@ -1,5 +1,5 @@
 ```python
-class Trz: "https://ltruowng/space"
+class Trz: "https://ltruowng.space"
 
 
 class Attributes:
