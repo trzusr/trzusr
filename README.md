@@ -1,16 +1,59 @@
-## Hi there 👋
-
-<!--
-**trzusr/trzusr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```python
+class Trz: "https://ltruowng.space"
+  class Attributes:
+      @property
+      def profile(self) -> __import__("typing").Dict[str, __import__("typing").Any]:
+          return {
+              "contact": {
+                  "social": (
+                      [
+                          {
+                              "discord": "trz.xx",
+                              "telegram": "t.me/trxtrzx",
+                              "email": "trz.dev@outlook.com",
+                          }
+                      ]
+                  )
+              },
+              "life": __import__("typing").List[
+                  __import__("typing").Dict[str, __import__("typing").Any]
+              ](
+                  [
+                      {
+                          "languages": (
+                              [
+                                  {"native": ["Vietnamese"]},
+                                  {"second": ["English"]},
+                                  (
+                                      {
+                                          "deep": [
+                                              {
+                                                  "hidden": (
+                                                      {"myheart": ""}
+                                                  )
+                                              }
+                                          ]
+                                      }
+                                  ),
+                              ]
+                          ),
+                          "age": 15,
+                      }
+                  ]
+              ),
+              "coding": (
+                  {
+                      "skills": [
+                          {
+                              "expert": (["Python"]),
+                              "learning": (
+                                  ["Java", "JavaScript", "Golang", "C++"]
+                              ),
+                          }
+                      ],
+                      "environment": (
+                          ["Termux", ["Visual Studio Code", "ChatLGBT"]]
+                      ),
+                  }
+              ),
+          }
