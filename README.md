@@ -10,7 +10,7 @@ class Trz: "https://ltruowng.space"
                           {
                               "discord": "trz.xx",
                               "telegram": "t.me/trxtrzx",
-                              "email": "trz.dev@outlook.com",
+                              "email": "trz@ltruowng.space",
                           }
                       ]
                   )
